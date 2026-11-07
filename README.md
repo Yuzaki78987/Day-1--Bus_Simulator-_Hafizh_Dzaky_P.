@@ -1,7 +1,6 @@
 # Day 1 Proyek Workshop
 
-Nama Lengkap: Hafizh Dzaky Pratama
-Kelompok: Bus Simulator
+Hafizh Dzaky Pratama
 
 # Deskripsi Repository
   Repository adalah tempat penyimpanan digital yang digunakan untuk menyimpan, mengelola, dan melacak perubahan pada kumpulan berkas (files), folder, atau kode sumber sebuah proyek perangkat lunak. Dan untuk komponen Utama Repository ada:
